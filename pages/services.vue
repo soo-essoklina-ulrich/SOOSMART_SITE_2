@@ -79,7 +79,7 @@ const services = [
     category: 'Infrastructure',
     title: 'Solutions Réseaux Sécurisées',
     description: 'Conception et implémentation de réseaux d\'entreprise sécurisés et performants.',
-    image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80',
+    image: 'https://dummyimage.com/1280x720/fff/aaa',
     features: [
       'Architecture réseau',
       'Mise en place de pare-feu',
@@ -92,7 +92,7 @@ const services = [
     category: 'Protection',
     title: 'Sécurité des Données',
     description: 'Protection complète de vos données sensibles contre les menaces internes et externes.',
-    image: 'https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80',
+    image: 'https://dummyimage.com/1280x720/fff/aaa',
     features: [
       'Chiffrement des données',
       'Gestion des accès',
