@@ -66,7 +66,7 @@ const services = [
     category: 'Audit & Conseil',
     title: 'Audit de Sécurité Complet',
     description: 'Une analyse approfondie de votre infrastructure informatique pour identifier les vulnérabilités et proposer des solutions adaptées.',
-    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80',
+    image: 'https://dummyimage.com/1280x720/fff/aaa',
     features: [
       'Analyse des vulnérabilités',
       'Tests de pénétration',
