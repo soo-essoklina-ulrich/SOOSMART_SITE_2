@@ -26,8 +26,8 @@
                   <div class="ml-3">
                     <h3 class="text-sm font-medium text-gray-900">Adresse</h3>
                     <p class="mt-1 text-sm text-gray-600">
-                      123 Avenue de la Sécurité<br>
-                      75008 Paris, France
+                     Legassito<br>
+                     Lome - Togo
                     </p>
                   </div>
                 </div>
@@ -40,7 +40,7 @@
                   </div>
                   <div class="ml-3">
                     <h3 class="text-sm font-medium text-gray-900">Email</h3>
-                    <p class="mt-1 text-sm text-gray-600">contact@soosmart.com</p>
+                    <p class="mt-1 text-sm text-gray-600">contact@soosmart.group</p>
                   </div>
                 </div>
 
@@ -52,7 +52,7 @@
                   </div>
                   <div class="ml-3">
                     <h3 class="text-sm font-medium text-gray-900">Téléphone</h3>
-                    <p class="mt-1 text-sm text-gray-600">+33 (0)1 23 45 67 89</p>
+                    <p class="mt-1 text-sm text-gray-600">+228 xx xx xx xx</p>
                   </div>
                 </div>
 

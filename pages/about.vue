@@ -68,19 +68,19 @@ const team = [
     name: 'Thomas Martin',
     role: 'Directeur Général',
     description: 'Expert en cybersécurité avec plus de 15 ans d\'expérience dans le secteur.',
-    image: 'https://avatar.iran.liara.run/public'
+    image: 'https://dummyimage.com/1280x720/fff/aaa'
   },
   {
     name: 'Sophie Bernard',
     role: 'Responsable Technique',
     description: 'Spécialiste des infrastructures réseaux et de la sécurité des systèmes.',
-    image: 'https://avatar.iran.liara.run/public'
+    image: 'https://dummyimage.com/1280x720/fff/aaa'
   },
   {
     name: 'Marc Dubois',
     role: 'Responsable Formation',
     description: 'Expert en formation et sensibilisation à la sécurité informatique.',
-    image: 'https://avatar.iran.liara.run/public'
+    image: 'https://dummyimage.com/1280x720/fff/aaa'
   }
 ]
 </script>

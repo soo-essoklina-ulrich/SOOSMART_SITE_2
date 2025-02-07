@@ -9,8 +9,8 @@
         <div>
           <h3 class="text-lg font-semibold mb-4">Contact</h3>
           <ul class="text-gray-400">
-            <li>Email: contact@soosmart.com</li>
-            <li>Tél: +33 (0)1 23 45 67 89</li>
+            <li>Email: contact@soosmart.group</li>
+            <li>Tél: +228 xx xx xx xx</li>
           </ul>
         </div>
         <div>
