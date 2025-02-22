@@ -15,7 +15,14 @@
     "@nuxtjs/tailwindcss": "^6.11.4",
     "@vueuse/core": "^10.9.0",
     "@vueuse/nuxt": "^10.9.0",
-    "nuxt": "^3.13.0",
-    "soosmart-group": "file:"
+    "nuxt": "^3.13.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "soosmart-group",
+      "vue-demi"
+    ]
   }
 }
